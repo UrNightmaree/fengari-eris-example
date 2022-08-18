@@ -1,0 +1,26 @@
+{
+  "name": "fengari-eris-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrNightmaree/fengari-eris-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UrNightmaree/fengari-eris-example/issues"
+  },
+  "homepage": "https://github.com/UrNightmaree/fengari-eris-example#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "eris": "^0.17.1",
+    "fengari-interop": "^0.1.3"
+  }
+}
